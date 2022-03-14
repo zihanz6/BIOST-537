@@ -7,6 +7,7 @@ experience unfolds, with the occurrence of events at random times during the rec
 the development of acute graft-versus-host disease (aGVHD) and the return of platelet counts to a normal
 level. Transplantation can be considered a failure when a patient’s leukemia returns (relapse) or when he
 or she dies while in remission.
+
 A multicenter study was conducted to evaluate whether patient and donor characteristics as well as
 unfolding clinical events are predictive of death in patients receiving allogeneic marrow transplantation.
 All patients enrolled were prepared with a radiation-free conditioning regimen consisting of a combination
